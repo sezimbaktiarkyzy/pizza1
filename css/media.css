@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .product-title {
+        font-size: 40px;
+    }
+    .product-card {
+        margin: 15px 0;
+    }
+}
+
+
+@media  (max-width: 390px) {
+    .container {
+        width: 90%;
+    }
+
+    .header-logo {
+        font-size: 20px;
+    }
+
+    .product-title {
+        font-size: 25px;
+    }
+
+    .product-card {
+        margin: 15px 0;
+    }
+}
+
